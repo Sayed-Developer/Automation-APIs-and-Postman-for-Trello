@@ -2,4 +2,4 @@
 Creating organizations, boards and lists using trello apis
 #Tools Used.
 - Postman
-- RestAssured.
+- RestAssured
